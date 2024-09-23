@@ -2,13 +2,15 @@
 
 ## Introduction
 
-Bienvenue dans l’Aide à la Décision pour les Tickets ITSM ! Ce script a été conçu avec une bonne dose de sympathie, saupoudrée d’une pointe de sarcasme (impossible de résister). Son but est simple : vous guider à travers les méandres parfois épineux de la gestion des tickets ITSM, surtout lorsque vous devez affronter les mystères entourant celui dont le nom ne doit pas être prononcé. En somme, il est là pour rendre votre quotidien plus léger, avec une touche d’humour pour agrémenter vos aventures informatiques.
+Bienvenue dans l’Aide à la Décision pour les Tickets ITSM ! Ce script a été conçu avec une bonne dose de sympathie, saupoudrée d’une pointe de sarcasme (impossible de résister). Son but est simple : vous guider à travers les méandres parfois épineux de la gestion des tickets ITSM, surtout lorsque vous devez affronter les mystères entourant *"celui dont le nom ne doit pas être prononcé"*. En somme, il est là pour rendre votre quotidien plus léger, avec une touche d’humour pour agrémenter vos aventures informatiques.
 
 ## Contexte
 
-Dans le royaume enchanté du service informatique, on se retrouve souvent plongé dans un tourbillon d'inconnues et de mystères insondables. Ajoutez à cela un collègue insaisissable, expert en formules secrètes, qui prend soin de dissimuler une bonne part de mystères dans ses travaux, et de garder pour lui ses parchemins les plus malicieux. Voilà la recette parfaite pour une chasse au trésor palpitante, à explorer en solo ou avec vos fidèles compagnons. Les Moldus n’ont qu’à bien se tenir !!!
+Dans le royaume enchanté du service informatique, on se retrouve souvent plongé dans un tourbillon d'inconnues et de mystères insondables. Ajoutez à cela un collègue insaisissable, qui prend soin de dissimuler une bonne part de mystères dans ses travaux, et de garder pour lui ses parchemins les plus malicieux. Voilà la recette parfaite pour une chasse au trésor palpitante, à explorer en solo ou avec vos fidèles compagnons. Les Moldus n’ont qu’à bien se tenir !!!
 
 Si vous n'êtes pas adepte des quêtes épiques, ne vous inquiétez pas ! Tel un artefact magique, ce script vous aidera à déjouer les mystères les plus obscurs et à réorienter les problèmes rapidement. Il simplifie le processus de prise de décision, et vous propose quelques suggestions de procrastination pour vous ressourcer lorsque la situation devient trop embarrassante.
+
+Il contient également un lien vers le [Grimoire des Savoirs Égarés](https://github.com/acoilier/KeepCalmAndSendTheTicket/wiki), un recueil de connaissances précieuses qui pourrait bien vous sauver la mise lors de vos prochaines aventures.
 
 ## Fonctionnement
 
@@ -36,18 +38,29 @@ Vous pouvez lui envoyer ce ticket.
 ```
 
 ## Suggestions de Procrastination
-Parce que parfois, la meilleure façon de gérer une situation écrasante est de faire une pause. Le script vous propose quelques tâches pour garder le moral et recharger vos batteries :
+Parce que parfois, la meilleure façon de gérer une situation écrasante est de faire une pause. Le script vous propose quelques tâches pour garder le moral et recharger vos batteries.
 
 ```txt
 Sujet blackbox détecté dans le ticket : k8s
 Est-ce que 'celui_dont_on_ne_doit_pas_prononcer_le_nom' est présent ? [O/n] n
 Gardez votre calme et armez vous de patience, l'enquête commence !
+N'oubliez pas de fouiller 'Le Grimoire des Savoirs Égarés'.
+Après tout, même une horloge cassée a raison deux fois par jour !
+https://github.com/acoilier/KeepCalmAndSendTheTicket/wiki
 Tâche de procrastination suggérée : Passer au support N1 pour dire que votre PC chauffe
 ```
 
+## Le Grimoire des Savoirs Égarés
+
+Ah, le fameux grimoire ! Ce trésor de connaissances, subtilisé ici et là, qui pourrait bien se révéler être la clé pour passer la certification ISO27001 à venir. Oui, vous avez bien lu. Dans un monde où les auditeurs réclament désespérément de la documentation, pourquoi ne pas leur offrir ce grimoire en guise de réponse ? Après tout, qui pourrait résister à un recueil d'incantations techniques ?
+
+Soucieux d'aider au mieux les aventuriers en quête de réponses, j'ai décidé de partager ce grimoire avec vous : [Le Grimoire des Savoirs Égarés](https://github.com/acoilier/KeepCalmAndSendTheTicket/wiki)
+
+Voilà, vous avez tout, ou presque. À vous de jouer !
+
 ## Disclaimer
 
-Ce repo Github est destiné à des fins de divertissement seulement. Toute ressemblance avec des personnes réelles, vivantes ou mortes, est purement fortuite.    
+Ce repo Github est destiné à des fins de divertissement seulement. Toute ressemblance avec des personnes réelles, vivantes ou mortes, est purement fortuite.  
 
 Ce script est sous la licence WTFPL ([Do What The Fuck You Want To Public License](https://fr.wikipedia.org/wiki/WTFPL)). Son but est de rendre vos journées un peu plus facile (et infiniment plus amusante). Utilisez-le, modifiez-le et partagez-le comme bon vous semble.
 

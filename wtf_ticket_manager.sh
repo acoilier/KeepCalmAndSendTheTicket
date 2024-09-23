@@ -11,7 +11,8 @@
 # Vous pouvez l'utiliser, le modifier et le distribuer à votre guise.
 # Licence WFTPL : https://fr.wikipedia.org/wiki/WTFPL
 # Vous pouvez participer à l'amélioration de ce script en soumettant une pull request sur le dépôt GitHub.
-# Dépôt GitHub : 
+# Dépôt GitHub : https://github.com/acoilier/KeepCalmAndSendTheTicket
+# Wiki du projet : https://github.com/acoilier/KeepCalmAndSendTheTicket/wiki
 
 ###############################################
 #                SECTION UTILISATION          #
@@ -99,6 +100,9 @@ if $sujet_blackbox_trouve; then
     echo "Keep Calm and Send the Ticket"
   else
     echo "Gardez votre calme et armez vous de patience, l'enquête commence !"
+    echo "n'oubliez pas de fouiller 'Le Grimoire des Savoirs Égarés'."
+    echo "Après tout, même une horloge cassée a raison deux fois par jour !"
+    echo "https://github.com/acoilier/KeepCalmAndSendTheTicket/wiki"
     procrastiner
   fi
   exit 0
